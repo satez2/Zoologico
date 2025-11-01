@@ -8,4 +8,4 @@
 -Java
 
 ##  Editor de código
--  Foi ultilizado o Eclipse
+-  Eclipse
